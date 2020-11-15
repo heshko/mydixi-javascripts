@@ -408,3 +408,5 @@ function mult(a,b){
 
  var moment = require('moment'); // require
 console.log(moment().format());
+var moment = require('moment'); // require
+console.log(moment().format());
